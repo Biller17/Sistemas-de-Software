@@ -3,7 +3,8 @@
 #include "Laptop.h"
 #include "Netbook.h"
 #include "Tablet.h"
-
+/*Adrian Biller A01018940 
+Tarea 1 fabrica de computadoras*/
 class Producto
 {
 public:
