@@ -1,4 +1,4 @@
-#pragma once
+S#pragma once
 #include "Computadora.h"
 
 
